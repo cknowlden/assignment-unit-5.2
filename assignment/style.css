@@ -1,0 +1,15 @@
+
+
+header {
+    text-align: center;
+    background-color: darkgreen;
+    color: white;
+}
+
+main {
+    background-color: lightgray;
+}
+
+#record {
+    background-repeat: repeat;
+}
