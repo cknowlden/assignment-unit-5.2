@@ -1,4 +1,8 @@
-
+body {
+    background-image: url(../assignment/record.png);
+    background-repeat: repeat;
+    margin: 0;
+}
 
 header {
     text-align: center;
@@ -8,8 +12,12 @@ header {
 
 main {
     background-color: lightgray;
+    padding: 1em;
 }
 
-#record {
-    background-repeat: repeat;
+#list {
+    background-color: yellow;
+    text-align: center;
+    font-size: 20px;
+    text-decoration: underline;
 }
